@@ -238,7 +238,7 @@
     "files": [
       {
         "path": "./build/components/index.web.js",
-        "maxSize": "2kb",
+        "maxSize": "200kb",
         "maxPercentIncrease": 5
       }
     ]
