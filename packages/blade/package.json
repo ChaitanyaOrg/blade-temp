@@ -241,9 +241,6 @@
         "maxSize": "200kb",
         "maxPercentIncrease": 5
       }
-    ],
-    "reportOutput": [
-      "github"
     ]
   }
 }
